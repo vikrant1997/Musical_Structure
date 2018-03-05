@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+    <string name="playnowdesc">In this activity user can play, pause or resume the song and can also navigate to another activity. MediaPlayer and AudioManager class will be used and methods like start,pause,reset etc. will be used.</string>
+    <string name="albumsscript">In this screen the user can select any album he wants the activity will be displayed in list view</string>
+    <string name="artistsscript">In this screen the user can navigate between different singers the activity will be displayed in list view</string>
+    <string name="settingsscript">In this screen user can use settings according to his preference</string>
+    <string name="playlistscript">In this user can navigate between any saved playlists or his favourite ones</string>
+    <string name="buyscript">In this screen the user can click on the buy button then the song will be added to the list,user then can buy the song through Google-Music-API of their choice this app uses GOOGLE play music API. After purchasing, the music will be saved in the playlist and user can play that song</string>
+    <string name="homescript">In this screen the user can navigate between different sections of music like playlist,albums,artists etc.</string>
+</resources>
